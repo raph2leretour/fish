@@ -10,6 +10,6 @@ alias nvim "~/bin/nvim.appimage"
 alias vim "~/bin/nvim.appimage"
 
 abbr gcl git clone
-abbr lla ls -la
+abbr lla ls -lA
 
 starship init fish | source
